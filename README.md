@@ -37,5 +37,6 @@ Driven by the modern intersection of physical theory and data science, I proacti
 
 ---
 
-## 🌌 Research Interests & Future Goals
-My primary research interests lie at the crossroads of **Computational Physics and Quantum Mechanics**. I am currently scaling my open-source physics simulation portfolio to pursue a PhD in Computational or Theoretical Physics.
+## 🚀 Future Goals & Research Collaboration
+* **Career Aspiration:** I am actively building my foundational skills to pursue a dedicated career in **Computational Physics**, leveraging high-level algorithms, data science libraries, and mathematical models to simulate complex physical systems.
+* **Open to Research Contributions:** I am deeply enthusiastic about learning from, collaborating on, and contributing to ongoing academic physics research projects. If you are looking for a driven student assistant with strong mathematical foundations and a growing computational toolkit, please don't hesitate to reach out!
